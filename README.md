@@ -1,5 +1,9 @@
 # Trakinagem Pet Shop — Site institucional
 
+![Trakinagem Pet Shop — site no ar](assets/trakinagem-preview.jpg)
+
+No ar: https://lucasveigapinheiro.github.io/trakinagem-pet/
+
 Site institucional para o **Trakinagem Pet Shop**, em Nova Petrópolis, São Bernardo do Campo. Apresenta banho, tosa, atendimento veterinário e o serviço de leva e traz, com agendamento direto pelo WhatsApp.
 
 ## Destaques
